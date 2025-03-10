@@ -1,0 +1,1 @@
+ls -d */|grep -v "JAW"|grep -v "artifact"|grep -v "venv"|grep -v "analysisdata"|grep -v "interm"|grep -v "miniapp"|grep -v "venv"|grep -v "malwareanalyzer"|grep -v "minimalware"|grep -v "node_modules"|grep -v "output"|grep -v "pdg_js"|grep -v "test"|xargs rm -rf
