@@ -1,5 +1,5 @@
 ### To view / unpack a miniapp:
-`./decrypt.sh foobar.wxapkg`
+`node wuWxapkg.js foobar.wxapkg`
 
 ### To initiate:
 `./restart.sh`
